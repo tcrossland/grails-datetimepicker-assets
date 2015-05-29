@@ -35,6 +35,6 @@ For datetimepicker assets:
 > Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 
 **bootstrap datetimepicker**
-> copyright 2012 Stefan Petre
+> Copyright 2012 Stefan Petre
 >
 > Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
