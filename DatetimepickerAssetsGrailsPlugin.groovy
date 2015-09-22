@@ -1,6 +1,6 @@
 class DatetimepickerAssetsGrailsPlugin {
 
-    def version = "1.2"
+    def version = "1.2.1"
 
     def grailsVersion = "2.3 > *"
 
@@ -21,4 +21,6 @@ https://github.com/smalot/bootstrap-datetimepicker
 
     // License: one of 'APACHE', 'GPL2', 'GPL3'
     def license = "APACHE"
+
+    def scm = [ url: "https://github.com/tcrossland/grails-datetimepicker-assets" ]
 }
