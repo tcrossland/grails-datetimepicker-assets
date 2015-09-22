@@ -1,17 +1,16 @@
 ### Grails
-/web-app/WEB-INF/classes
-/stacktrace.log
-/test/reports
-/logs
-/*.zip
+/web-app
+*.log
+grails-datetimepicker-assets-*.zip
+grails-datetimepicker-assets-*.zip.sha1
 /plugin.xml
 /target
 
 ### Eclipse
 .classpath
 .project
-.settings/
+.settings
 
 ### IntelliJ
-.idea/
+.idea
 *.iml
