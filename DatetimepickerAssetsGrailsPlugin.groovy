@@ -16,11 +16,10 @@ https://github.com/eternicode/bootstrap-datepicker
 https://github.com/smalot/bootstrap-datetimepicker
 '''
 
-    // URL to the plugin's documentation
     def documentation = "http://grails.org/plugin/datetimepicker-assets"
 
-    // License: one of 'APACHE', 'GPL2', 'GPL3'
     def license = "APACHE"
 
     def scm = [ url: "https://github.com/tcrossland/grails-datetimepicker-assets" ]
+    def issueManagement = [url: 'https://github.com/tcrossland/grails-datetimepicker-assets/issues']
 }
