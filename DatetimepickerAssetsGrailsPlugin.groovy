@@ -1,6 +1,6 @@
 class DatetimepickerAssetsGrailsPlugin {
 
-    def version = "1.2.2"
+    def version = "1.2.3"
 
     def grailsVersion = "2.3 > *"
 
