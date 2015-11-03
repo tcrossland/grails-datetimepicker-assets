@@ -19,14 +19,19 @@
         <div class="form-group">
           <label for="input1">Date</label>
           <input id="input1" class="form-control datepicker" placeholder="dd/MM/yyyy" style="width: 7.5em;"/>
-          <span class="help-block">This is a <a href="https://github.com/eternicode/bootstrap-datepicker" target="_blank">bootstrap-datepicker</a>.
-          </span>
+          <span class="help-block">This is a <a href="https://github.com/eternicode/bootstrap-datepicker" target="_blank">bootstrap-datepicker</a>.</span>
         </div>
+        <label for="startDate">Date Range</label>
+        <div class="input-group input-daterange daterangepicker">
+          <input id="startDate" type="text" class="form-control" placeholder="dd/MM/yyyy">
+          <span class="input-group-addon">to</span>
+          <input id="endDate" type="text" class="form-control" placeholder="dd/MM/yyyy">
+        </div>
+        <span class="help-block">This is a date range picker using <a href="https://github.com/eternicode/bootstrap-datepicker" target="_blank">bootstrap-datepicker</a>.</span>
         <div class="form-group">
           <label for="input2">Date & Time</label>
           <input id="input2" class="form-control datetimepicker" placeholder="dd/MM/yyyy HH:mm" style="width: 10.5em;"/>
-          <span class="help-block">This is a <a href="https://github.com/smalot/bootstrap-datetimepicker" target="_blank">bootstrap-datetimepicker</a>.
-          </span>
+          <span class="help-block">This is a <a href="https://github.com/smalot/bootstrap-datetimepicker" target="_blank">bootstrap-datetimepicker</a>.</span>
         </div>
       </form>
     </div>

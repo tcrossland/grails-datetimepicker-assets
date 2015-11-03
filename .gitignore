@@ -1,4 +1,5 @@
 ### Grails
+/.slcache
 /web-app/WEB-INF/classes
 /stacktrace.log
 /test/reports

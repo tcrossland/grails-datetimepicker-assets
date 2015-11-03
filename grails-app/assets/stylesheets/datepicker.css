@@ -3,6 +3,9 @@
 *= require eternicode-bootstrap-datepicker/bootstrap-datepicker3
 *= require_self
 */
-input.form-control.datepicker {
+input.form-control.datepicker, div.daterangepicker input.form-control {
   padding: 6px 12px;
+}
+div.daterangepicker {
+  width: 232px;
 }

@@ -21,6 +21,9 @@ For datetimepicker assets:
 
 ## History
 
+**Version 1.1** (2015-11-03)
+* bootstrap-datepicker 1.5.0
+
 **Version 1.0** (2015-05-29)
 
 * Initial release
