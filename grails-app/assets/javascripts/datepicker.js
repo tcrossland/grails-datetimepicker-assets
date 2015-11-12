@@ -6,7 +6,8 @@ jQuery(document).ready(function ($) {
         autoclose: true,
         format: 'dd/mm/yyyy',
         todayBtn: 'linked',
-        todayHighlight: true
+        todayHighlight: true,
+        zIndexOffset: 1040
     };
     $('div.daterangepicker').datepicker(options);
     $('input.datepicker').datepicker(options);

@@ -21,7 +21,12 @@ For datetimepicker assets:
 
 ## History
 
+**Version 1.4.0** (2015-11-12)
+
+* Change `zIndexOffset` option to 1040 (in front of Bootstrap fixed navbar)
+
 **Version 1.1** (2015-11-03)
+
 * bootstrap-datepicker 1.5.0
 
 **Version 1.0** (2015-05-29)
